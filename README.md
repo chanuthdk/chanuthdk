@@ -77,7 +77,9 @@
 ###
 
 <picture>
-![Chanuth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=dracula&hide_border=true)
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=dracula&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=default&hide_border=true">
+  <img alt="Chanuth's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=default&hide_border=true">
 </picture>
 
 ###
