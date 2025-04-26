@@ -77,9 +77,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=dracula&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=default&hide_border=true">
-  <img alt="Chanuth's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chanuthdk&theme=default&hide_border=true">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/chanuthdk/chanuthdk/output/github-contribution-grid-snake-dark.svg">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/chanuthdk/chanuthdk/output/github-contribution-grid-snake.svg">
+  <img 
+    alt="Snake animation eating my contributions" 
+    src="https://raw.githubusercontent.com/chanuthdk/chanuthdk/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
