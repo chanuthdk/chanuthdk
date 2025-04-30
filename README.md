@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Chanuth</h1>
+<h1 align="center">hey there 👋 I'm Chanuth </h1>
 
 ###
 
