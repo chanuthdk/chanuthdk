@@ -2,25 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Full-Stack+Developer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvdzVwbmU4amkzcTN0d3Rtb3g1ZDZjMTN3ampzcmZqYng5dWozcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" />
-
 <div align="left">
   
   ## 💫 About Me
+  
+  <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvdzVwbmU4amkzcTN0d3Rtb3g1ZDZjMTN3ampzcmZqYng5dWozcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" />
   
   🎓 Undergraduate at **NIBM Sri Lanka**
   
   🌍 Based in Colombo, Sri Lanka
   
-  💻 Passionate about building web applications
+  💻 Passionate backend engineering
   
   📚 Currently exploring backend frameworks
   
-  🚀 Always eager to learn new technologies
-  
-  🎯 Goal: Becoming a proficient full-stack developer
-  
-  ⚡ Fun fact: I debug code better with coffee!
+  ⚡ Fun fact: I code without a coffee
 </div>
 
 <br>
@@ -61,7 +57,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -79,7 +75,7 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="65" height="65" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
