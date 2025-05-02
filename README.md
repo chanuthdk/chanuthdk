@@ -6,7 +6,7 @@
   
   ## 💫 About Me
   
-  <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvdzVwbmU4amkzcTN0d3Rtb3g1ZDZjMTN3ampzcmZqYng5dWozcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" />
+  <img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvdzVwbmU4amkzcTN0d3Rtb3g1ZDZjMTN3ampzcmZqYng5dWozcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" />
   
   🎓 Undergraduate at **NIBM Sri Lanka**
   
