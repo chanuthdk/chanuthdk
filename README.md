@@ -16,7 +16,7 @@
   
   📚 Currently exploring backend frameworks
   
-  ⚡ Fun fact: I code without a coffee
+  ⚡ Fun fact: I can code without a coffee
 </div>
 
 <br>
