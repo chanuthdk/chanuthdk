@@ -2,12 +2,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header" />
   
-  <!-- Glitch Text Effect -->
+  <!-- Glitch Text Effect using CSS -->
   <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=500&color=0077B5&center=true&vCenter=true&random=false&width=435&lines=CHANUTH+DEWNAKA;CHANUTH+DEWNAKA;CHANUTH+DEWNAKA" alt="Glitching Name" />
+    <a href="https://github.com/chanuthdk">
+      <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=CHANUTH+DEWNAKA" alt="CHANUTH DEWNAKA" />
     </a>
   </h1>
+  
+  <!-- The actual glitch effect - HTML/CSS version -->
+  <div align="center">
+    <img src="https://fontmeme.com/permalink/240510/cca9a32fe8d81c4cb13e88bae73fb2bd.png" alt="CHANUTH DEWNAKA with glitch effect" width="400">
+  </div>
 </div>
 
 <!-- Dynamic Typing -->
