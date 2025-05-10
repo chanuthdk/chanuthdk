@@ -1,7 +1,7 @@
 <!-- Yellow Header Text Only -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1000&color=F0DB4F&center=true&vCenter=true&random=false&width=500&height=60&lines=Hello+World!+I'm+Chanuth" alt="CHANUTH DEWNAKA" />
+    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1000&color=F0DB4F&center=true&vCenter=true&random=false&width=600&height=60&lines=Hello+World!+I'm+Chanuth" alt="CHANUTH DEWNAKA" />
   </h1>
 </div>
 
