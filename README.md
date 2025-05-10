@@ -1,13 +1,13 @@
-<!-- Yellow Heroku-style Header Text -->
+<!-- Yellow Header Text Only -->
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1000&color=F0DB4F&center=true&vCenter=true&random=false&width=500&height=60&lines=CHANUTH+DEWNAKA" alt="CHANUTH DEWNAKA" />
   </h1>
 </div>
 
-<!-- Dynamic Typing -->
+<!-- Glitching Hello World Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Backend+Engineer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=F0DB4F&center=true&vCenter=true&random=false&width=500&lines=Hello+World!+I'm+Chanuth" alt="Typing SVG" />
 </div>
 
 <!-- Introduction Section with Grid Layout -->
