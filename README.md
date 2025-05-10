@@ -1,22 +1,15 @@
-<!-- Header Banner -->
+<!-- Yellow Heroku-style Header Text -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header" />
-  
-  <!-- Glitch Effect Header using pure markdown -->
-  <h1 align="center">
-    <span style="color:#FF0000">C</span><span style="color:#0000FF">H</span>A<span style="color:#FF0000">N</span>U<span style="color:#0000FF">T</span>H <span style="color:#FF0000">D</span><span style="color:#0000FF">E</span>W<span style="color:#FF0000">N</span>A<span style="color:#0000FF">K</span>A
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1000&color=F0DB4F&center=true&vCenter=true&random=false&width=500&height=60&lines=CHANUTH+DEWNAKA" alt="CHANUTH DEWNAKA" />
   </h1>
-  
-  <!-- ASCII Art Version (Will display correctly) -->
-  <pre align="center">
-  ██████╗██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗████████╗██╗  ██╗
- ██╔════╝██║  ██║██╔══██╗████╗  ██║██║   ██║╚══██╔══╝██║  ██║
- ██║     ███████║███████║██╔██╗ ██║██║   ██║   ██║   ███████║
- ██║     ██╔══██║██╔══██║██║╚██╗██║██║   ██║   ██║   ██╔══██║
- ╚██████╗██║  ██║██║  ██║██║ ╚████║╚██████╔╝   ██║   ██║  ██║
-  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
-  </pre>
 </div>
+
+<!-- Dynamic Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Backend+Engineer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
+
 <!-- Introduction Section with Grid Layout -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
