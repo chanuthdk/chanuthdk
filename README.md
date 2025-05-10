@@ -1,13 +1,19 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Chanuth%20Dewnaka&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header" />
+  
+  <!-- Glitch Text Effect -->
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=500&color=0077B5&center=true&vCenter=true&random=false&width=435&lines=CHANUTH+DEWNAKA;CHANUTH+DEWNAKA;CHANUTH+DEWNAKA" alt="Glitching Name" />
+    </a>
+  </h1>
 </div>
 
 <!-- Dynamic Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Backend+Engineer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
-
 <!-- Introduction Section with Grid Layout -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
