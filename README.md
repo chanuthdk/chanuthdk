@@ -2,22 +2,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header" />
   
-  <!-- Glitch Text Effect using CSS -->
+  <!-- Glitch Effect Header using pure markdown -->
   <h1 align="center">
-    <a href="https://github.com/chanuthdk">
-      <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=CHANUTH+DEWNAKA" alt="CHANUTH DEWNAKA" />
-    </a>
+    <span style="color:#FF0000">C</span><span style="color:#0000FF">H</span>A<span style="color:#FF0000">N</span>U<span style="color:#0000FF">T</span>H <span style="color:#FF0000">D</span><span style="color:#0000FF">E</span>W<span style="color:#FF0000">N</span>A<span style="color:#0000FF">K</span>A
   </h1>
   
-  <!-- The actual glitch effect - HTML/CSS version -->
-  <div align="center">
-    <img src="https://fontmeme.com/permalink/240510/cca9a32fe8d81c4cb13e88bae73fb2bd.png" alt="CHANUTH DEWNAKA with glitch effect" width="400">
-  </div>
-</div>
-
-<!-- Dynamic Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Backend+Engineer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <!-- ASCII Art Version (Will display correctly) -->
+  <pre align="center">
+  ██████╗██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗████████╗██╗  ██╗
+ ██╔════╝██║  ██║██╔══██╗████╗  ██║██║   ██║╚══██╔══╝██║  ██║
+ ██║     ███████║███████║██╔██╗ ██║██║   ██║   ██║   ███████║
+ ██║     ██╔══██║██╔══██║██║╚██╗██║██║   ██║   ██║   ██╔══██║
+ ╚██████╗██║  ██║██║  ██║██║ ╚████║╚██████╔╝   ██║   ██║  ██║
+  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+  </pre>
 </div>
 <!-- Introduction Section with Grid Layout -->
 <div align="center">
