@@ -1,133 +1,127 @@
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Full-Stack+Developer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Chanuth%20Dewnaka&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<div align="left">
-  
-  ## 💫 About Me
-  
-  <img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvdzVwbmU4amkzcTN0d3Rtb3g1ZDZjMTN3ampzcmZqYng5dWozcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" />
-  
-  🎓 Undergraduate at **NIBM Sri Lanka**
-  
-  🌍 Based in Colombo, Sri Lanka
-  
-  💻 Passionate backend engineering
-  
-  📚 Currently exploring backend frameworks
-  
-  ⚡ Fun fact: I can code without a coffee
+<!-- Dynamic Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Chanuth!;Backend+Engineer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<br>
+<!-- Introduction Section with Grid Layout -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  
+  <h2>💫 About Me</h2>
 
-## 🔗 Connect With Me
-<div align="left">
+  <table>
+    <tr>
+      <td width="60%">
+        <ul>
+          <li>🎓 Undergraduate at <b>NIBM Sri Lanka</b></li>
+          <li>🌍 Based in Colombo, Sri Lanka</li>
+          <li>💻 Passionate about backend engineering</li>
+          <li>📚 Currently exploring backend frameworks</li>
+          <li>⚡ Fun fact: I can code without coffee</li>
+        </ul>
+      </td>
+      <td width="40%">
+        <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<!-- Tech Stack Section with Icons -->
+<div align="center">
+  <h2>🛠️ My Tech Universe</h2>
+  
+  <details open>
+    <summary><b>Programming Languages</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    </p>
+  </details>
+
+  <details open>
+    <summary><b>Frontend Development</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    </p>
+  </details>
+
+  <details open>
+    <summary><b>Backend Development</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    </p>
+  </details>
+
+  <details open>
+    <summary><b>Database & Storage</b></summary>
+    <br>
+    <p>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+    </p>
+  </details>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<!-- Statistics Section -->
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=chanuthdk&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanuthdk&theme=radical&background=0D1117&hide_border=true" width="49%" alt="GitHub Streak Stats"/>
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthdk&theme=radical&bg_color=0D1117&hide_border=true&layout=compact" width="44%" alt="Most Used Languages"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=chanuthdk&theme=radical&no-frame=true&column=3&row=2" width="54%" alt="Trophy Stats"/>
+  </p>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<!-- Connect With Me Section -->
+<div align="center">
+  <h2>🔗 Let's Connect!</h2>
+  
   <a href="https://www.linkedin.com/in/chanuthdewnaka/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discordapp.com/users/chanuth.d" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/chanuth.dk/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
-<br>
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
-      <br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="65" height="65" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanuthdk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthdk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=chanuthdk&theme=tokyonight&hide_border=true&border_radius=10" height="170" alt="GitHub Streak" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chanuthdk&theme=discord&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<br>
-
+<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chanuthdk&style=for-the-badge&color=0077B5" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanuthdk/chanuthdk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanuthdk/chanuthdk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/chanuthdk/chanuthdk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
+  
+  <!-- Bottom Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />
 </div>
